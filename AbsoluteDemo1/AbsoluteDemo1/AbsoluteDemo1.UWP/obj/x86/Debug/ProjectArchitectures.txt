@@ -1,0 +1,2 @@
+E:\CS402\CS402MidTerm\AbsoluteDemo1\AbsoluteDemo1\AbsoluteDemo1.UWP\AbsoluteDemo1.UWP.csproj;x86
+E:\CS402\CS402MidTerm\AbsoluteDemo1\AbsoluteDemo1\AbsoluteDemo1\AbsoluteDemo1.csproj;neutral

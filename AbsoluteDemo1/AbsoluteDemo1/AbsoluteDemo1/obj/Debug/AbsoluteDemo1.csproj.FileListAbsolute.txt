@@ -1,0 +1,10 @@
+E:\CS402\CS402MidTerm\AbsoluteDemo1\AbsoluteDemo1\AbsoluteDemo1\bin\Debug\AbsoluteDemo1.dll
+E:\CS402\CS402MidTerm\AbsoluteDemo1\AbsoluteDemo1\AbsoluteDemo1\bin\Debug\AbsoluteDemo1.pdb
+E:\CS402\CS402MidTerm\AbsoluteDemo1\AbsoluteDemo1\AbsoluteDemo1\bin\Debug\Xamarin.Forms.Core.dll
+E:\CS402\CS402MidTerm\AbsoluteDemo1\AbsoluteDemo1\AbsoluteDemo1\bin\Debug\Xamarin.Forms.Platform.dll
+E:\CS402\CS402MidTerm\AbsoluteDemo1\AbsoluteDemo1\AbsoluteDemo1\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\CS402\CS402MidTerm\AbsoluteDemo1\AbsoluteDemo1\AbsoluteDemo1\bin\Debug\Xamarin.Forms.Core.xml
+E:\CS402\CS402MidTerm\AbsoluteDemo1\AbsoluteDemo1\AbsoluteDemo1\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\CS402\CS402MidTerm\AbsoluteDemo1\AbsoluteDemo1\AbsoluteDemo1\obj\Debug\AbsoluteDemo1.dll
+E:\CS402\CS402MidTerm\AbsoluteDemo1\AbsoluteDemo1\AbsoluteDemo1\obj\Debug\AbsoluteDemo1.pdb
+E:\CS402\CS402MidTerm\AbsoluteDemo1\AbsoluteDemo1\AbsoluteDemo1\obj\Debug\AbsoluteDemo1.AlsoluteXAML.xaml.g.cs
